@@ -1,0 +1,9 @@
+Cadenus to szyfr wykorzystujący dwa klucze. Tworzona jest w takim wypadku tablica z ilością kolumn równą długości pierwszego klucza oraz z ilością wierszy równą długości drugiego klucza. Pierwszy klucz jest dowolny i wykorzystuje się go do przestawiania kolumn. Drugi klucz jest permutacją wykorzystywanego alfabetu. Text wpisywany jest znak po znaku do tablicy wiersz po wierszu. Następnie litery klucza pierwszego wraz z przypisanymi im kolumnami są ustawiane alfabetycznie. W drugim kroku wiersz każdej kolumny jest przesuwany o tyle pól do góry ile wynosi numer pozycji litery kodu pierwszego w kodzie drugim.
+
+Aby zobaczyć wizualny przykład można wybrać opcję "Przykład" na ekranie głównym.
+
+Text przyjmuje znaki zawarte w utf-8 w tym znaki alfanumeryczne, znaki białe, znaki specjalne oraz litery polskie.
+
+Pierwszy klucz widnieje w górnym polu tekstowym i przyjmuje znaki z zakresu A-Z.
+
+Drugi klucz będący permutacją alfabetu widnieje pod pierwszym kluczem. Może on być losowany.

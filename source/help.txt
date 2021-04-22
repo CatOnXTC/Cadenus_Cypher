@@ -1,0 +1,17 @@
+Wciskając "Informacje" pojawią się dodatkowe informacje na temat działania algorytmu.
+Wsiskając "Przykład" pojawi się prosty przykład użycia szyfru.
+
+W lewym polu tekstowym można wpisać tekst który chcesz zaszyfrować. Możliwe do zaszyfrowania są znaki specjalne, białe oraz interpunkcyjne.
+Pole to można automatycznie wypełnić danymi z pliku poprzez wciśnięcie przycisku "Wybierz plik z tekstem", a następnie wybranie pliku tekstowego.
+Pole to może zostać również zapisane poprzez wciśnięcie przycisku "Zapisz plik z tekstem" oraz wybranie miejsca i nazwy dla tworzonego pliku tekstowego.
+
+W prawym polu tekstowym można wpisać tekst który chcesz odszyfrować. Możliwe do odszyfrowania są znaki specjalne, białe oraz interpunkcyjne.
+Pole to można automatycznie wypełnić danymi z pliku poprzez wciśnięcie przycisku "Wybierz zaszyfrowany plik", a następnie wybranie pliku tekstowego.
+Pole to może zostać również zapisane poprzez wciśnięcie przycisku "Zapisz zaszyfrowany plik" oraz wybranie miejsca i nazwy dla tworzonego pliku tekstowego.
+
+W górnym polu tekstowym można wpisać wybrany pierwszy klucz. Może on zawierać jedynie litery alfabetu angielskiego, innych znaków nie przyjmuje.
+Pod polem na pierwszy klucz widnieje drugi klucz będący permutacją alfabetu angielskiego. Klikając przycisk pod nim można wylosować nową permutację.
+Oba klucze mogą zostać wczytane z pliku tekstowego poprzez wciśnięcie przycisku "Wybierz plik z kluczem" i wybranie odpowiedniego pliku tekstowego.
+Oba klucze mogą również zostać zapisane poprzez wciśnięcie przycisku "Zapisz plik z kluczem" oraz wybranie miejsca i nazwy dla tworzonego pliku tekstowego.
+
+Po wybraniu lub zapisaniu dowolnego pliku tekstowego jego ścieżka wyświetlana jest nad imieniem autora programu.
